@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "作业三", "作业三\作业三.vcxproj", "{1E9914D3-1366-47B5-9391-E7440D01C4C0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "计算分数的加法", "计算分数的加法\计算分数的加法.vcxproj", "{5811EFD5-2329-40BD-B04F-37D61F6540EB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数9", "数9\数9.vcxproj", "{17894F03-73F9-40CB-A5B7-99F4E478DB8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E9914D3-1366-47B5-9391-E7440D01C4C0}.Debug|x64.ActiveCfg = Debug|x64
+		{1E9914D3-1366-47B5-9391-E7440D01C4C0}.Debug|x64.Build.0 = Debug|x64
+		{1E9914D3-1366-47B5-9391-E7440D01C4C0}.Debug|x86.ActiveCfg = Debug|Win32
+		{1E9914D3-1366-47B5-9391-E7440D01C4C0}.Debug|x86.Build.0 = Debug|Win32
+		{1E9914D3-1366-47B5-9391-E7440D01C4C0}.Release|x64.ActiveCfg = Release|x64
+		{1E9914D3-1366-47B5-9391-E7440D01C4C0}.Release|x64.Build.0 = Release|x64
+		{1E9914D3-1366-47B5-9391-E7440D01C4C0}.Release|x86.ActiveCfg = Release|Win32
+		{1E9914D3-1366-47B5-9391-E7440D01C4C0}.Release|x86.Build.0 = Release|Win32
+		{5811EFD5-2329-40BD-B04F-37D61F6540EB}.Debug|x64.ActiveCfg = Debug|x64
+		{5811EFD5-2329-40BD-B04F-37D61F6540EB}.Debug|x64.Build.0 = Debug|x64
+		{5811EFD5-2329-40BD-B04F-37D61F6540EB}.Debug|x86.ActiveCfg = Debug|Win32
+		{5811EFD5-2329-40BD-B04F-37D61F6540EB}.Debug|x86.Build.0 = Debug|Win32
+		{5811EFD5-2329-40BD-B04F-37D61F6540EB}.Release|x64.ActiveCfg = Release|x64
+		{5811EFD5-2329-40BD-B04F-37D61F6540EB}.Release|x64.Build.0 = Release|x64
+		{5811EFD5-2329-40BD-B04F-37D61F6540EB}.Release|x86.ActiveCfg = Release|Win32
+		{5811EFD5-2329-40BD-B04F-37D61F6540EB}.Release|x86.Build.0 = Release|Win32
+		{17894F03-73F9-40CB-A5B7-99F4E478DB8E}.Debug|x64.ActiveCfg = Debug|x64
+		{17894F03-73F9-40CB-A5B7-99F4E478DB8E}.Debug|x64.Build.0 = Debug|x64
+		{17894F03-73F9-40CB-A5B7-99F4E478DB8E}.Debug|x86.ActiveCfg = Debug|Win32
+		{17894F03-73F9-40CB-A5B7-99F4E478DB8E}.Debug|x86.Build.0 = Debug|Win32
+		{17894F03-73F9-40CB-A5B7-99F4E478DB8E}.Release|x64.ActiveCfg = Release|x64
+		{17894F03-73F9-40CB-A5B7-99F4E478DB8E}.Release|x64.Build.0 = Release|x64
+		{17894F03-73F9-40CB-A5B7-99F4E478DB8E}.Release|x86.ActiveCfg = Release|Win32
+		{17894F03-73F9-40CB-A5B7-99F4E478DB8E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80369E6E-D5FB-4D95-B4FD-DBA214CD2862}
+	EndGlobalSection
+EndGlobal

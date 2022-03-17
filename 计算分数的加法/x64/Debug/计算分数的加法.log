@@ -1,0 +1,4 @@
+﻿  计算.c
+H:\VS2022\book1\作业三\计算分数的加法\计算.c(10,12): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+H:\VS2022\book1\作业三\计算分数的加法\计算.c(14,14): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  计算分数的加法.vcxproj -> H:\VS2022\book1\作业三\x64\Debug\计算分数的加法.exe

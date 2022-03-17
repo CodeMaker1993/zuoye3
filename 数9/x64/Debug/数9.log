@@ -1,0 +1,4 @@
+﻿  数9.c
+H:\VS2022\book1\作业三\数9\数9.c(5,6): warning C4101: “a”: 未引用的局部变量
+H:\VS2022\book1\作业三\数9\数9.c(5,9): warning C4101: “b”: 未引用的局部变量
+  数9.vcxproj -> H:\VS2022\book1\作业三\x64\Debug\数9.exe
